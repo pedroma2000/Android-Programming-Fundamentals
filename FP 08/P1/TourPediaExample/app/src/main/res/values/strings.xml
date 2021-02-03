@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TourPediaExample</string>
+    <string name="location">Location</string>
+    <string name="name">Name</string>
+    <string name="search">Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="details">Details</string>
+</resources>

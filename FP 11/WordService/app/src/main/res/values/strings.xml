@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WordService</string>
+    <string name="word">Word</string>
+    <string name="search">Search</string>
+</resources>

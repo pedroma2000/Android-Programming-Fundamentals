@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToolbarAndPreferences</string>
+    <string name="delete">Delete</string>
+    <string name="phone_number">Phone number</string>
+    <string name="name">Name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="insert_contact">insert contact</string>
+    <string name="numer_telemovel">Numer Telemovel</string>
+    <string name="nome_completo">Nome Completo</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToolbarAndPreferences</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="inserir_contacto">Inserir contacto</string>
+    <string name="numero_telemovel">Numero Telemovel</string>
+    <string name="nome_completo">Nome Completo</string>
+</resources>

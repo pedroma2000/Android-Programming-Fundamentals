@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pool</string>
+    <string name="novo_grafico">Novo Grafico</string>
+    <string name="chart_sample">Chart Sample!</string>
+</resources>

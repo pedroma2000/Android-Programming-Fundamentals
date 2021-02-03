@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activities</string>
+    <string name="textview">TextView</string>
+    <string name="escreva_um_texto">Escreva um texto</string>
+    <string name="apresentar_toast">Apresentar Toast</string>
+    <string name="abrir_nova_activity">Abrir nova Activity</string>
+</resources>

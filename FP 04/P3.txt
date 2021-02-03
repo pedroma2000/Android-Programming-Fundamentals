@@ -1,0 +1,9 @@
+Questão 1
+
+Falso -> Não é necessário um layout manager para a RecyclerView lidar com a hierarquia e com o
+rView lidar com a hierarquia e com o layout de cada View.
+
+Questão 2
+
+View.onClickListener
+

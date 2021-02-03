@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SoundService</string>
+    <string name="parar_audio">Parar Audio</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Location</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Localização</string>
+    <string name="obter_ultima_localizacao">Obter Ultima Localização</string>
+    <string name="come_ar_atualizcoes_periodicas">Começar Atualizções Periodicas</string>
+    <string name="parar_atualizacoes_periodicas">Parar Atualizações Periodicas</string>
+    <string name="geocoder">GeoCoder</string>
+    <string name="abrir_mapa">Abrir Mapa</string>
+</resources>

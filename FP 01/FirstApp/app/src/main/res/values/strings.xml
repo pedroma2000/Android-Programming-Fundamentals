@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="x">X =</string>
+    <string name="qual_o_valor_de_x_na_seguinte_equa_o">Qual o valor de x na seguinte equação:</string>
+    <string name="_2_3_x">2 + 3 = X</string>
+    <string name="valor">Valor</string>
+    <string name="o_resultado_est">O resultado está?</string>
+    <string name="verifica">Verifica</string>
+</resources>

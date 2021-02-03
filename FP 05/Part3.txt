@@ -1,0 +1,13 @@
+Questão 1
+ListFragment()
+
+
+Questão 2
+Declarar a localização para o fragment dentro do ficheiro de layout da activity utilizando o view
+group <FrameLayout>. De seguida obter a instância do fragment e FragmentManager, iniciar a
+transação, utilizar a transação add(), realizar o commit da transação
+
+
+Questão 3
+SimpleFragment fragment = (SimpleFragment)
+fragmentManager.findFragmentById(R.id.fragment_container)
